@@ -20,7 +20,7 @@ The purpose of this project is to demonstrate proficiency in SQL queries and dat
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/akshit-shetty/SQL-Case-Study-Famous-Paintings.git
     ```
 
 2. Install the required Python packages:
